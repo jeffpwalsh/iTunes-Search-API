@@ -9,8 +9,10 @@
 
 * cd into main folder
 * npm install
+* npm start
 * cd into client
 * npm install
+* npm start
 
 
 ## Routes
