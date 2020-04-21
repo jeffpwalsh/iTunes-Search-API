@@ -2,7 +2,7 @@
 # Express-React Itunes Search App
 
 
-* This server fetches data from itunes search api
+* The server fetches data from itunes search api
 * The client renders search results and creates a favouritelist
 
 ## Installation & Running
