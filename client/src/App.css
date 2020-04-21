@@ -1,0 +1,101 @@
+
+.App-header {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* font-size: calc(10px + 2vmin); */
+  color: rgb(223, 160, 160);
+}
+
+
+
+
+.favorite {
+
+background-color: aqua;
+
+}
+
+.link {
+
+  border: 1px solid white;
+  text-align: center;
+  padding: 2%;
+  text-decoration: none;
+  width: 20%;
+  margin: 1%;
+}
+
+input {
+
+  text-align: center;
+  color: purple;
+  margin: 5px; 
+}
+
+p {
+
+font-size: smaller
+}
+
+.card {
+
+margin-top: 3%;
+padding: 10%;
+border-bottom: 1px solid purple;
+
+  
+}
+
+.card button {
+
+  width: 50%;
+  margin: 5%;
+  background-color: rebeccapurple;
+ 
+}
+
+.results {
+
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  border: 1px, solid grey;
+  background-color:  #282c34;
+  color: white;
+  
+  
+
+}
+
+.favItem {
+display: inline;
+
+border: 1px solid black;
+
+}
+
+table th {
+
+  text-align: center;
+}
+
+img:hover {
+
+transform: scale(1.1);
+}
+
+#logo {
+
+  width: 300px;
+  height: 300px; 
+}
+
+
+
+
